@@ -1,0 +1,5 @@
+name: jupyterlab-env
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/audrey/miniconda3/envs/jupyterlab-env
