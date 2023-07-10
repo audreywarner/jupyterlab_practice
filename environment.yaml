@@ -2,4 +2,5 @@ name: jupyterlab-env
 channels:
   - conda-forge
   - defaults
+  - ipykernel
 prefix: /Users/audrey/miniconda3/envs/jupyterlab-env
